@@ -1,5 +1,7 @@
 # WowRandomLottery
 
+## Новинка
+
 Недавно на [WowRandom](https://wowrandom.ru/) появился новый нпц `"Шаромыжник <Рулеточник>"`!
 > Раньше его не было!
 
@@ -29,16 +31,32 @@
 <details>
 <summary>Список товаров:</summary>
 
-![](https://i.imgur.com/0VEyOIl.png)
-![](https://i.imgur.com/0VEyOIl.png)
-![](https://i.imgur.com/0VEyOIl.png)
+![](https://i.imgur.com/ynb0A8G.png)
+![](https://i.imgur.com/wOGP1lO.png)
+![](https://i.imgur.com/sntDHBU.png)
 
-<img width="30%" src="https://i.imgur.com/ynb0A8G.png">
-
-  <img width="30%" src="https://i.imgur.com/wOGP1lO.png">
-
-  <img width="30%" src="https://i.imgur.com/sntDHBU.png">
 </details>
+
+## После вскрытия
+
+Вот весь лут, который выпал со всех 3-х лотерей.
+<p align="center">
+  <img width="30%" src="https://i.imgur.com/OM7Hb2o.png">
+</p>
+
+С дешевой выпало:
+- Подтверждение храбрости **ID:** 45706
+
+С обычной выпало:
+- Эмблема льда (x205 шт) **ID:** 49426
+
+С дорогой выпало:
+- Увесистый кошель кузнеца **ID:** 140111
+> С "Увесистый кошель кузнеца" выпало уже:
+> - Медная руда x18
+> - Золотая руда x16
+> - Руда оскверненного железа x23
+> - Саронитовая руда x25
 
 ---
 
