@@ -26,6 +26,20 @@
 </p>
 
 
+<details>
+<summary>Список товаров:</summary>
+
+![](https://i.imgur.com/0VEyOIl.png)
+![](https://i.imgur.com/0VEyOIl.png)
+![](https://i.imgur.com/0VEyOIl.png)
+
+<img width="30%" src="https://i.imgur.com/ynb0A8G.png">
+
+  <img width="30%" src="https://i.imgur.com/wOGP1lO.png">
+
+  <img width="30%" src="https://i.imgur.com/sntDHBU.png">
+</details>
+
 ---
 
 # Ссылки
