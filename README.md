@@ -15,6 +15,16 @@
 ![](https://i.imgur.com/n4BkHt9.png)
 </details>
 
+- Дешевая лотерея **ID:** 140100 
+- Обычная лотерея **ID:** 140101
+- Дорогая лотерея **ID:** 140102
+
+Я приобрёл их все, и сейчас бы будем их открывать :)
+
+<p align="center">
+  <img width="30%" src="https://i.imgur.com/vCxjVZw.png">
+</p>
+
 
 ---
 
