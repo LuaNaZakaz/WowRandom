@@ -86,6 +86,7 @@
 ![](https://i.imgur.com/mIxs0x3.png)
 
 </details>
+
 ---
 
 # Ссылки
