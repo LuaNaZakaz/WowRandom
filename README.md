@@ -1,6 +1,12 @@
 # WowRandomLottery
 
-Недавно на WowRandom
+Недавно на WowRandom появился нпц "Шаромыжник"
+![](https://i.imgur.com/svxHl8s.png)
+
+На данный момент у него можно приобрести следующие товары:
+![](https://i.imgur.com/n4BkHt9.png)
+
+---
 
 # Ссылки
 | Описание | Ссылка |
