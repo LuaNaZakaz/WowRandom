@@ -20,4 +20,4 @@ git commit -m $commit_message
 
 # Отправить изменения в удаленный репозиторий (замените <адрес_удаленного_репо> на фактический адрес)
 # git push git@gitflic.ru:ilovetiktiok/obsibian.git
-git push origin master
+git push origin main
