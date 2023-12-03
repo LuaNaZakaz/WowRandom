@@ -9,7 +9,7 @@ git add .
 
 
 # Запросить у пользователя сообщение для коммита
-$commit_message = "UPDATE: D:\WowRandomArticles тест" + " " + (Get-Date).ToString('yyyy-MM-dd HH:mm:ss')
+$commit_message = "UPDATE: D:\WowRandomArticles тест тестовый" + " " + (Get-Date).ToString('yyyy-MM-dd HH:mm:ss')
 
 # Вывести сообщение для проверки
 Write-Host $commit_message
