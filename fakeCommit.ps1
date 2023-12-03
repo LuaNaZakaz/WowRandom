@@ -2,7 +2,7 @@
 # C:\Windows\System32\WindowsPowerShell\v1.0
 
 # Перейти в директорию с вашим репозиторием
-cd "D:\WowRandom"
+cd "D:\WowRandomArticles"
 
 # Добавить все измененные файлы для коммита
 git add .
