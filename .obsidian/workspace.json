@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2c78ebcef809cd12",
+        "id": "c93d2b1e89cf2c63",
         "type": "tabs",
         "children": [
           {
-            "id": "742b68a9935ba501",
+            "id": "8db8864aa304648c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учителя тренеры/Учитель Арбалетов.md",
+                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "209ef69ad30da9fa",
+            "id": "6a5f3cfdcfde0b3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЗС - Змеиное святилище.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ЗС - Змеиное святилище.md",
+                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ЗС - Змеиное святилище.md",
+                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЗС - Змеиное святилище.md"
+                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md"
               }
             }
           }
@@ -159,11 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "209ef69ad30da9fa",
+  "active": "8db8864aa304648c",
   "lastOpenFiles": [
+    "Ссылки.md",
+    "README.md",
+    "Новости/Как выглядит wrlauncher в 2023-м году.md",
+    "Новости/Изменения реалмлиста.md",
+    "Учителя тренеры/Учитель Арбалетов.md",
+    "ЗС - Змеиное святилище.md",
     "Как понять какой кв пройден.md",
     "Тест опыта в Наксе 10 или 25.md",
-    "ЗС - Змеиное святилище.md",
     "Кастомные данжи/Фарм Тропы.md",
     "Голосование за проект.md",
     "Кастомные предметы/Зачем нужен Эфирал стойкости.md",
@@ -179,12 +183,8 @@
     "Учителя тренеры/Тренер луков.md",
     "Профессии",
     "Профессии/Извечная поясная пряжка.md",
-    "Новости/Как выглядит wrlauncher в 2023-м году.md",
     "Учителя тренеры/Учитель дробящего у орды.md",
-    "Учителя тренеры/Учитель Арбалетов.md",
     "Учителя тренеры",
-    "README.md",
-    "Новости/Изменения реалмлиста.md",
     "Золото",
     "Новости",
     "Мировые боссы/Пробуждённый Ребрад.md",
