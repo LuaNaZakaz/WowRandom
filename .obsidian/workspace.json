@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
+                "file": "Новости/2023-12-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
+                "file": "Новости/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md",
+                "file": "Новости/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Новости/Как выглядит wrlauncher в 2023-м году.md"
+                "file": "Новости/2023-12-03.md"
               }
             }
           }
@@ -160,9 +160,10 @@
   },
   "active": "8db8864aa304648c",
   "lastOpenFiles": [
+    "Новости/Как выглядит wrlauncher в 2023-м году.md",
+    "Новости/2023-12-03.md",
     "Ссылки.md",
     "README.md",
-    "Новости/Как выглядит wrlauncher в 2023-м году.md",
     "Новости/Изменения реалмлиста.md",
     "Учителя тренеры/Учитель Арбалетов.md",
     "ЗС - Змеиное святилище.md",
