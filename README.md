@@ -37,7 +37,7 @@
 - помощь новичкам в освоении игры
 - поддержка в виде гайдов, статей
 - доставка игрового золота
-- покупка **донат жетонов** для иностраных граждан
+- покупка **донат жетонов** для иностранных граждан
 
 <p align="center">
   <img width="60%" src="https://sun9-52.userapi.com/impg/BGt8AyjoaLfucj85hW9c9OgnfJGMnonGvWKZpw/CfDPYsMrPQc.jpg?size=1280x720&quality=95&sign=3ee20d7a01a8a136d33909ff0e84c6d7&type=album">

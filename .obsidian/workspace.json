@@ -14,18 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Ссылки.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "6a5f3cfdcfde0b3a",
+            "id": "d2b94fe5384f4a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Золото/Где достать золото для Wowrandom.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Золото/Где достать золото для Wowrandom.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Золото/Где достать золото для Wowrandom.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Золото/Где достать золото для Wowrandom.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a5f3cfdcfde0b3a",
+  "active": "d2b94fe5384f4a94",
   "lastOpenFiles": [
-    "README.md",
     "Золото/Где достать золото для Wowrandom.md",
+    "README.md",
     "Ссылки.md",
+    "Кастомные данжи/Фарм Тропы - На мишку.md",
+    "Кастомные данжи/Какой лут падает с нового инста.md",
+    "Кастомные данжи/На мишку.md",
     "Тест опыта в Наксе 10 или 25.md",
     "НПЦ/Новый NPC - Шаромыжник Рулеточник.md",
     "НПЦ/НПЦ Напылитель.md",
@@ -171,9 +174,6 @@
     "Профессии/Извечная поясная пряжка.md",
     "Профессии/Как снять чарку с предмета.md",
     "Профессии/Свиток чар для аксессуаров - Случайное улучшение.md",
-    "Кастомные данжи/Какой лут падает с нового инста.md",
-    "Кастомные данжи/Фарм Тропы.md",
-    "Кастомные данжи/На мишку.md",
     "Голосование за проект.md",
     "ЗС - Змеиное святилище.md",
     "Новости/2023-12-03.md",
